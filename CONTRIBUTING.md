@@ -14,7 +14,3 @@ Please ensure that the tests are passing when submitting a pull request. If you'
 
 For any questions, support, or ideas, etc. [please create a GitHub discussion](https://github.com/Shayan-Awan/NeuroVision/discussions). 
 
-### Fork and create a branch
-
-If this is something you think you can fix, then [fork Active Admin] and create
-a branch with a descriptive name.
